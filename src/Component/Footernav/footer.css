@@ -1,0 +1,25 @@
+.myfooter{
+    background-color:#293f51;
+}
+.footer_heading{
+    color:#62867E;
+    padding: 20px;
+    margin-left: 150px;
+
+}
+.foot_nav{
+    padding: 20px;
+    width:100%;
+    max-width: fit-content;
+}
+
+.foot_nav ul{
+    text-decoration:none ;
+    color:#fff;
+    margin-left: 200px;
+}
+.foot_nav ul li{
+    float:left;
+    list-style: none; 
+    padding:6px 20px 0px 0px;
+}
